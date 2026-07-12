@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,50:004E92,100:00C6FF&text=JAVA%20CODING&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
 # ☕ Java-Comp-Coding
 
 A structured collection of **Java** solutions for Data Structures, Algorithms, and coding interview preparation. This repository documents my problem-solving journey through college coursework, coding platforms, and competitive programming.
